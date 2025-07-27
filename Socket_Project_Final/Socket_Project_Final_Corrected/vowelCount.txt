@@ -1,0 +1,6 @@
+Totals
+Letter aA : 49
+Letter eE : 74
+Letter iI : 51
+Letter oO : 58
+Letter uU : 36
