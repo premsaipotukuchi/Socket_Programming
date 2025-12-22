@@ -2,7 +2,7 @@ README - ICSI 500 Project 2
 Operating Systems - Project 2: Multithreaded Client-Server-Helper Vowel Processing System
 University at Albany - Department of Computer Science
 Student: Venkata Manikanta Prem Sai Potukuchi
-Submission Due Date: December 5th, 2024
+
 
 -------------------------------------------------------------------------------
 PROJECT OVERVIEW
